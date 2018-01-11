@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>FizzBuzzFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6329FCD52004D95E00FAE304</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6329FCE92004D95E00FAE304</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6329FCF42004D95E00FAE304</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>638724B120062EFE006D62CB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
